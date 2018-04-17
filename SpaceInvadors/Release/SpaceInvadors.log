@@ -1,0 +1,21 @@
+﻿  block.cpp
+  bullets.cpp
+  enemy.cpp
+  enemyBullets.cpp
+  lives.cpp
+  player.cpp
+  sounds.cpp
+  SpaceInvaders.cpp
+SpaceInvaders.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(251): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(252): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(288): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(315): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(401): warning C4305: 'argument': truncation from 'double' to 'float'
+SpaceInvaders.cpp(621): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(644): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(645): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(647): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sounds.obj : error LNK2001: unresolved external symbol __imp__PlaySoundA@12
+C:\Users\zolta\OneDrive\Documents\Visual Studio 2015\Projects\SpaceInvadors_Not_Offical\Release\SpaceInvadors.exe : fatal error LNK1120: 1 unresolved externals

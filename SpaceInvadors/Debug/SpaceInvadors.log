@@ -1,0 +1,15 @@
+﻿  SpaceInvaders.cpp
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(345): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(433): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(465): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(492): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(579): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(582): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\spaceinvadors_not_offical\spaceinvadors\spaceinvaders.cpp(793): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpaceInvadors.vcxproj -> C:\Users\zolta\OneDrive\Documents\Visual Studio 2015\Projects\SpaceInvadors_Not_Offical\Debug\SpaceInvadors.exe
+  SpaceInvadors.vcxproj -> C:\Users\zolta\OneDrive\Documents\Visual Studio 2015\Projects\SpaceInvadors_Not_Offical\Debug\SpaceInvadors.pdb (Partial PDB)
