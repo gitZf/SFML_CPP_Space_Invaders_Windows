@@ -1,0 +1,25 @@
+﻿  block.cpp
+  bullets.cpp
+  enemy.cpp
+  enemyBullets.cpp
+  enemyFly.cpp
+  lives.cpp
+  player.cpp
+  SpaceInvaders.cpp
+SpaceInvaders.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(345): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(433): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SpaceInvaders.cpp(465): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(492): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SpaceInvaders.cpp(579): warning C4305: 'argument': truncation from 'double' to 'float'
+SpaceInvaders.cpp(582): warning C4305: 'argument': truncation from 'double' to 'float'
+SpaceInvaders.cpp(793): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 255 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SpaceInvadors.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_CPP_Space_Invaders_Windows-master\SMFL_CPP_Space_Invaders_Windows-master\x64\Release\SpaceInvadors.exe
+  SpaceInvadors.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_CPP_Space_Invaders_Windows-master\SMFL_CPP_Space_Invaders_Windows-master\x64\Release\SpaceInvadors.pdb (Full PDB)
